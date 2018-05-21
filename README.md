@@ -1,0 +1,2 @@
+# kursach
+init
